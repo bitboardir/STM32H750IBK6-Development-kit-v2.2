@@ -25,5 +25,5 @@ This repository contains examples, documentation, and technical resources for a 
 - **PCB Dimensions**: 10x10 cm, 4-layer design
 
 ---
-
-![Board Image](pic.jpg)
+![Board Image](/4-pic/PCB_2D.PNG)
+![Board Image](/4-pic/PCB_3D.PNG)
