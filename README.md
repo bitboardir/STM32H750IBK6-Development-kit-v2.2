@@ -26,5 +26,4 @@ This repository contains examples, documentation, and technical resources for a 
 
 ---
 
-## 📁 Repository Structure
 
