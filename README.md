@@ -3,6 +3,9 @@
 This repository contains examples, documentation, and technical resources for a custom development board based on the **STM32H750IBK6** microcontroller. The board is designed for embedded system development, featuring high-performance peripherals and extensive connectivity options.
 
 ---
+![Board Image](/4-pic/PCB_2D.PNG)
+![Board Image](/4-pic/PCB_3D.PNG)
+---
 
 ## 🧠 Specifications
 
@@ -25,5 +28,3 @@ This repository contains examples, documentation, and technical resources for a 
 - **PCB Dimensions**: 10x10 cm, 4-layer design
 
 ---
-![Board Image](/4-pic/PCB_2D.PNG)
-![Board Image](/4-pic/PCB_3D.PNG)
