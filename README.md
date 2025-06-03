@@ -16,14 +16,14 @@ This repository contains examples, documentation, and technical resources for a 
 - **Display Interface**: LTDC
 - **Touch Panel Support**: Resistive and Capacitive
 - **Ethernet**: 10/100 Mbps with LAN8742 PHY
-- **GSM Modules**: Compatible with SIM800C or M08-R
+- **GSM Modules**: Compatible with SIM800C or M08-R(default installed)
 - **Communication Interfaces**:
   - Isolated RS485
   - CAN Bus
   - USB Host
   - SD Card (4-bit mode)
   - ESP8266 (UART)
-- **Real-Time Clock (RTC)**: RX8010SJ or DS1307 (external)
+- **Real-Time Clock (RTC)**: RX8010SJ(default installed) or DS1307
 - **Power Supply**: 7–48V DC input (0.05–0.5A)
 - **PCB Dimensions**: 10x10 cm, 4-layer design
 
